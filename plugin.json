@@ -1,7 +1,7 @@
 {
 	"name": "MilaaanPlugin",
 	"author": "Milaaan",
-	"version": "2.51.0",
+	"version": "2.52.0",
 	"minVersion": "1.131.6 beta 3",
 	"supportedVersion": "1.132.0 alpha 2",
 	"update": "https://raw.githubusercontent.com/miilaannn/miilaannnn/main/plugin.json",
@@ -16,6 +16,7 @@
 		"dev.milaaan.hangar.HangarSwitch",
 		"dev.milaaan.inventory.InventoryStats",
 		"dev.milaaan.npc_rewards.NpcRewards",
+		"dev.milaaan.launcher.PluginBar",
 		"dev.milaaan.quests.QuestModule",
 		"dev.milaaan.session_stats.SessionStats",
 		"dev.milaaan.gg.SimpleGalaxyGate",
