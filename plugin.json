@@ -1,7 +1,7 @@
 {
   "name": "MilaaanPlugin",
   "author": "Milaaan",
-  "version": "2.60.0",
+  "version": "2.60.1",
   "minVersion": "1.131.6 beta 3",
   "supportedVersion": "1.132.0 alpha 2",
   "update": "https://raw.githubusercontent.com/miilaannn/miilaannnn/main/plugin.json",
