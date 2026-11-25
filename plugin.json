@@ -1,7 +1,7 @@
 {
 	"name": "MilaaanPlugin",
 	"author": "Milaaan",
-	"version": "2.56.1",
+	"version": "2.57.0",
 	"minVersion": "1.131.6 beta 3",
 	"supportedVersion": "1.132.0 alpha 2",
 	"update": "https://raw.githubusercontent.com/miilaannn/miilaannnn/main/plugin.json",
@@ -9,7 +9,6 @@
 	"basePackage": "dev.milaaan",
 	"features": [
 		"dev.milaaan.assembly.AssemblyFeature",
-		"dev.milaaan.autoprofile.AutoProfile",
 		"dev.milaaan.theme.DarkBotTheme",
 		"dev.milaaan.diminished.DiminishedRewards",
 		"dev.milaaan.eco.EcoMode",
