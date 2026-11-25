@@ -1,7 +1,7 @@
 {
   "name": "MilaaanPlugin",
   "author": "Milaaan",
-  "version": "2.58.0",
+  "version": "2.59.0",
   "minVersion": "1.131.6 beta 3",
   "supportedVersion": "1.132.0 alpha 2",
   "update": "https://raw.githubusercontent.com/miilaannn/miilaannnn/main/plugin.json",
@@ -23,6 +23,7 @@
     "dev.milaaan.gg.SimpleGalaxyGate",
     "dev.milaaan.healing.SimpleHealing",
     "dev.milaaan.planner.WeeklyPlanner",
-    "dev.milaaan.dispatch.AutoDispatch"
+    "dev.milaaan.dispatch.AutoDispatch",
+    "dev.milaaan.autobuy.AutoBuy"
   ]
 }
