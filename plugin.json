@@ -1,7 +1,7 @@
 {
   "name": "MilaaanPlugin",
   "author": "Milaaan",
-  "version": "2.63.1",
+  "version": "2.64.1",
   "minVersion": "1.131.6 beta 3",
   "supportedVersion": "1.132.0 alpha 2",
   "update": "https://raw.githubusercontent.com/miilaannn/miilaannnn/main/plugin.json",
@@ -11,20 +11,17 @@
     "dev.milaaan.assembly.AssemblyFeature",
     "dev.milaaan.diminished.DiminishedRewards",
     "dev.milaaan.eco.EcoMode",
-    "dev.milaaan.gates.GateTracker",
     "dev.milaaan.game_clicks.GameClicks",
     "dev.milaaan.hangar.HangarSwitch",
     "dev.milaaan.inventory.InventoryStats",
     "dev.milaaan.npc_rewards.NpcRewards",
     "dev.milaaan.launcher.PluginBar",
     "dev.milaaan.quests.QuestModule",
-    "dev.milaaan.session_stats.SessionStats",
     "dev.milaaan.gg.SimpleGalaxyGate",
     "dev.milaaan.healing.SimpleHealing",
     "dev.milaaan.planner.WeeklyPlanner",
     "dev.milaaan.dispatch.AutoDispatch",
     "dev.milaaan.autobuy.AutoBuy",
-    "dev.milaaan.boosters.BoosterPanel",
-    "dev.milaaan.group.GroupPanel"
+    "dev.milaaan.panels.Panels"
   ]
 }
